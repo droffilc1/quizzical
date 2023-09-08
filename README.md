@@ -4,6 +4,9 @@
 
 A quiz game that uses an API to generate new questions each time you play.
 
+## Live Demo
+For the link to the live demo, [Click here](https://quizzical-alpha-ivory.vercel.app/) :point_left:
+
 ## Features
 
 After answering the questions you can submit your answers, and your score is displayed, and your average score is tracked between sessions.
